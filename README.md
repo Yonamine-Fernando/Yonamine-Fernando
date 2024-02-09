@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Yonamaine Fernando 😁
+## Bem-vindo(a) ao perfil do Yonamine Fernando 😁
 
  <div>
    <a href="https://github.com/yonamine">
