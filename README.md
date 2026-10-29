@@ -74,4 +74,4 @@ Minha jornada na programação é movida pela curiosidade, pela prática e pela 
 **Construindo meu futuro, uma linha de código por vez.** 💙
 
 </div>
-esse .readme eu descarto e crio outro do zero?
+
